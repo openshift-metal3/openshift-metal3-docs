@@ -1,8 +1,8 @@
-# OpenShift Integration with MetalKube
+# OpenShift Integration with Metal3
 
-The [openshift-metalkube](https://github.com/openshift-metalkube) github org
+The [openshift-metal3](https://github.com/openshift-metal3) github org
 contains repositories related to the integration of
-[MetalKube](http://metalkube.org) with the OpenShift distribution of
+[Metal3](http://metal3.io) with the OpenShift distribution of
 Kubernetes.
 
 Design documents that describe work done in and across these repositories will
